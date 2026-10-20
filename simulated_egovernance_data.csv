@@ -1,0 +1,11 @@
+state,applications_received,applications_disposed,pending_applications,rejected_applications,avg_processing_days,median_processing_days,citizen_satisfaction_score
+Karnataka,12000,9600,1500,900,4.2,8.5,0.8
+Maharashtra,18000,14500,2300,1200,4.5,10.2,0.81
+Tamil Nadu,14000,11600,1700,700,3.8,7.2,0.83
+Telangana,9000,7600,1000,400,3.5,6.8,0.84
+Kerala,8500,7400,800,300,3.1,5.5,0.87
+Rajasthan,11000,8200,1900,900,5.1,12.4,0.75
+Gujarat,13000,10800,1600,600,3.9,7.8,0.82
+Uttar Pradesh,22000,15700,4300,2000,6.0,15.1,0.71
+Odisha,7500,5900,1100,500,4.8,11.0,0.77
+Himachal Pradesh,4200,3700,350,150,2.9,4.8,0.88
